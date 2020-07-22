@@ -8,7 +8,7 @@ A project from my Udacity Data Science Nanodegree. A machine learning pipeline i
 * To run ML pipeline that trains classifier and saves python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 * Run the following command in the app's directory to run your web app. python run.py
 
-Go to http://127.0.0.1:8000/
+Go to http://127.0.0.1:3001/
 
 ## Files of importance:
 * app/templates/* templates/html files for web app
